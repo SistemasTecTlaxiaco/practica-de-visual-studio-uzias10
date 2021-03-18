@@ -1,0 +1,10 @@
+C:\Users\CICEM\source\repos\tercer intennto\tercer intennto\bin\Debug\tercer intennto.exe.config
+C:\Users\CICEM\source\repos\tercer intennto\tercer intennto\bin\Debug\tercer intennto.exe
+C:\Users\CICEM\source\repos\tercer intennto\tercer intennto\bin\Debug\tercer intennto.pdb
+C:\Users\CICEM\source\repos\tercer intennto\tercer intennto\obj\Debug\tercer intennto.csprojAssemblyReference.cache
+C:\Users\CICEM\source\repos\tercer intennto\tercer intennto\obj\Debug\tercer_intennto.Form1.resources
+C:\Users\CICEM\source\repos\tercer intennto\tercer intennto\obj\Debug\tercer_intennto.Properties.Resources.resources
+C:\Users\CICEM\source\repos\tercer intennto\tercer intennto\obj\Debug\tercer intennto.csproj.GenerateResource.cache
+C:\Users\CICEM\source\repos\tercer intennto\tercer intennto\obj\Debug\tercer intennto.csproj.CoreCompileInputs.cache
+C:\Users\CICEM\source\repos\tercer intennto\tercer intennto\obj\Debug\tercer intennto.exe
+C:\Users\CICEM\source\repos\tercer intennto\tercer intennto\obj\Debug\tercer intennto.pdb
